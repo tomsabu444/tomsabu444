@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **REACT , AR/VR, Figma**
+- 🌱 I’m currently learning **JS - REACT ,Flutter, AR/VR**
 
 - 👨‍💻 All of My Projects are available at [PORTFOLIO](tomsabu.com)
 
