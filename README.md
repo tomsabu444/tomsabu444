@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tomsabu444&theme=dark&border_radius=20&" alt="tomsabu444" />
+<img src="https://streak-stats.demolab.com?user=tomsabu444&theme=dark&border_radius=12" alt="tomsabu444" />
 </div>
 
 <br>
