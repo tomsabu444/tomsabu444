@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 </h1>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tomsabu444&label=Profile%20views&color=blue&style=for-the-badge&base=100" alt="tomsabu444" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tomsabu444&label=Profile%20views&color=blue&style=for-the-badge" alt="tomsabu444" /> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
