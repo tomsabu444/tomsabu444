@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **JS - REACT ,Flutter, AR/VR**
 - ✔  **Ethical Hacking...💙**
-- 👨‍💻 All of My Projects are available at [PORTFOLIO](tomsabu.com)
+- 👨‍💻 All of My Projects are available at [PORTFOLIO](http://react.tomsabu.com/)
 
 <br>
 
