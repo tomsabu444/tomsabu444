@@ -106,12 +106,15 @@
  </p>
 
 ##
-
+<details>
+	<summary>
+		<h3>Streak-Status</h3>
+	</summary>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=tomsabu444&theme=dark&border_radius=12" alt="tomsabu444" />
 </div>
-
+</details>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
