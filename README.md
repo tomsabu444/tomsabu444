@@ -15,7 +15,7 @@
 </div>
 
 
-## <picture><img src = "https://cdn.discordapp.com/attachments/946018559421734914/1193062832804216912/about_me.gif" width = 40px></picture> **About me**
+## <picture><img src = "https://cdn.discordapp.com/attachments/946018559421734914/1193062832804216912/about_me.gif?ex=662c8c59&is=662b3ad9&hm=77cd869df6f1316da8df93ff22415e6b85906fb3d1834494aea8e1d448617603&" width = 40px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width="350px"></picture>
 
 <br>
