@@ -60,20 +60,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=mysql"  height="40" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=php"  height="40" alt="php logo"  />
+   <img src="https://skillicons.dev/icons?i=mongodb"  height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=flutter"  height="40" alt="flutter logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=figma"  height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=vscode"  height="40" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=androidstudio"  height="40" alt="androidstudio logo"  />
   <img src="https://skillicons.dev/icons?i=ae"  height="40" alt="adobeaftereffects logo"  />
@@ -81,11 +81,13 @@
   <img src="https://skillicons.dev/icons?i=ps"  height="40" alt="adobephotoshop logo"  />
   <img src="https://skillicons.dev/icons?i=ai"  height="40" alt="adobeillustrator logo"  />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=figma"  height="40" alt="figma logo"  />
 </div>
 
 
 ###
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=cloudflare"  height="40" alt="cloudflare logo"  />
   <img src="https://skillicons.dev/icons?i=gcp"  height="40" alt="googlecloud logo"  />
   <img src="https://skillicons.dev/icons?i=aws"  height="40" alt="amazonwebservices logo"  />
